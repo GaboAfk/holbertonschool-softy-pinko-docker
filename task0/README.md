@@ -1,1 +1,1 @@
-ubuntu latest, apt update/upgrades and echo Hello, World! from a Dockerfile
+latest ubuntu, apt-get update/upgrades and echo Hello, World! from a Dockerfile
